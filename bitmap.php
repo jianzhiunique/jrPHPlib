@@ -2,8 +2,8 @@
 
 /**
  *  已读未读bitmap计算
- *  @author renjianzhi<renjianzhi@100tal.com>
- *  @copyright xes
+ *  @author renjianzhi
+ *  @copyright
  */
 function getStatus($index, $str)
 {
