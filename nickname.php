@@ -2,8 +2,8 @@
 
 /**
  *  昵称生成
- *  @author renjianzhi<renjianzhi@100tal.com>
- *  @copyright xes
+ *  @author renjianzhi
+ *  @copyright
  */
 function _getAutoNicknameStr($num)
 {
