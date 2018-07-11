@@ -2,8 +2,8 @@
 
 /**
  *
- *  @author renjianzhi<renjianzhi@100tal.com>
- *  @copyright xes
+ *  @author renjianzhi
+ *  @copyright
  */
 class DaemonProcess
 {
