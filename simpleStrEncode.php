@@ -2,8 +2,8 @@
 
 /**
  *  简单的字符串仿射变换加密解密
- *  @author renjianzhi<renjianzhi@100tal.com>
- *  @copyright xes
+ *  @author renjianzhi
+ *  @copyright
  */
 function _encrypt($data, $key)
 {
