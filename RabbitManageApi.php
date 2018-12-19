@@ -436,8 +436,8 @@ class Rabbit extends BaseApi
             'ip' => $this->ip,
             'method' => $this->uriMap[$fn]['method'],
             'uri' => isset($this->uriMap[$fn]['uriArgs']) ? vsprintf($this->uriMap[$fn]['uri'], array_values($uriArgs)) : $this->uriMap[$fn]['uri'],
-            'user' => 'xeswx',
-            'password' => 'xeswx'
+            'user' => 'user',
+            'password' => ''
         ];
         if ($this->uriMap[$fn]['method'] != 'GET') {
             //body预处理
