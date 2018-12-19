@@ -25,5 +25,5 @@ function _getAutoNicknameStr($num)
         $num = (int) ($num / 52);
     }
     $resultArr = array_reverse(array_pad($result, 6, 0));
-    return '学员' . implode($resultArr);
+    return '用户' . implode($resultArr);
 }
